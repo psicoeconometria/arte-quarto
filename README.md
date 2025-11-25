@@ -1,6 +1,6 @@
 # Meu Projeto ARTE
 
-Repositório instrucional para o módulo "Documentos Reprodutíveis" do Curso 
+Repo instrucional para o módulo "Documentos Reprodutíveis" do Curso 
 "Artigo à Prova de Futuro: Jornada de Open Science na Prática": 
 [https://phdpablo.github.io/curso-open-science/](https://phdpablo.github.io/curso-open-science/)
 
